@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sukumar-G
-- 👀 I’m interested in Web Development and Application Development
-- 🌱 I’m currently learning B.E ECE
-- 💞️ I’m looking to collaborate on creating an App 
+- 👀 I’m interested in Data Analytics, Visualization and Engineering.
+- 🌱 I did my Bachelors in the field of Electronics and Communication Engineering.
+- 🤝 Looking to connect with people having the passion for Data.
+- I'm working as Programmer Analyst Trainee specialised in Tools like Informatica Powercenter and IICS
 - 📫 How to reach me garlapatisukumar@gmail.com
 
 <!---
